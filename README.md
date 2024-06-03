@@ -1,16 +1,18 @@
 # test_webview_seatgeek
 
-A new Flutter project.
+This project was created to test a few different flutter webview packages with SeatGeek.com.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You must have Flutter installed on your machine.
+Please clone the project to any directory. 
 
-A few resources to get you started if this is your first Flutter project:
+You must connect a debug-enabled phone, or run an emulator locally.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Find your project directory `cd` into it, and run:
+```
+flutter clean
+flutter pub get
+flutter run
+```
+and choose your device.
